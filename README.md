@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emre and 21 years old Electronic Technologies student from Dokuz Eylul University.
 - 👀 I’m interested in Electronics / Software Development. 
 - 🌱 I’m currently learning Electronic Technology and Computer Science.
-- 💞️ I’m Working on DEU IEEE CS Web Project as a Team Member.
+- 💞️ I’m Working on DEU IEEE Computer Society Web Project as a Team Member.
 - 📫 How to reach me Gmail: NULL
 - ✨ I have experince on Python and C.
 - 💻 Operating System: Fedora 39
