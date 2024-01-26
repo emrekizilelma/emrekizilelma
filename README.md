@@ -1,4 +1,4 @@
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=emrekizilelma&show_icons=true&theme=dark&locale=en" alt="emre" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=emrekizilelma&show_icons=true&theme=dark&locale=en" alt="emrekizilelma" /></p>
 
 ## Most Used Languages
 
